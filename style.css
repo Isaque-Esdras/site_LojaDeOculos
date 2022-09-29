@@ -74,6 +74,7 @@ body{
     padding: 5px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: auto;
+    font-size: 12px;
 }
 
 #mainPosteriorDois{
@@ -176,7 +177,7 @@ footer{
     height: 30px;
     background-color: rgb(23, 67, 144);
     color: white;
-    font-size: large;
+    font-size: 13pt;
     border: none;
     display: flex;
     flex-direction: row;
@@ -185,4 +186,6 @@ footer{
     align-items: center;
     margin: 15px;
     cursor: pointer;
+
 }
+
